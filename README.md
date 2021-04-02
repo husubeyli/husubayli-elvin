@@ -1,6 +1,6 @@
 - :wave: Hi, My name is Elvin
 - I'm a backend developer
-- Skils: Pthon / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker 
+- Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker 
 - Check it if you want to contact me. EMail: husubayli@gmail.com 
 
 
